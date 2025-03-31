@@ -6,10 +6,6 @@ I'm an AI Engineer with a strong passion for solving complex programming challen
 - AI & ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas.
 - Databases: SQL, MongoDB, MariaDB.
 - Tools: Azure cloud services, Streamlit, BeautifulSoup4, Selenium
-# 🏅 Achievements:
-- Completed Linux Certificate from Cisco Networking Academy.
-- Finished in the Top 25th at Vietnam Datathon 2023.
-- Successfully completed Grab Vietnam's Tech Boot Camp 2024.
 # 📫 Get in Touch:
 📧 Email: ductoan.uit@gmail.com
 
