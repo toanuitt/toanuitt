@@ -1,12 +1,47 @@
-### Hi there, I'm Toan Pham 👋
-I'm an AI Engineer with a strong passion for solving complex programming challenges. My goal is to leverage my expertise in artificial intelligence and machine learning to build impactful solutions that make a difference.
+---
 
-# 🛠️ Technical Skills:
-- Programming Languages: C++, C#, Python, Java, HTML, CSS.
-- AI & ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn, Pandas.
-- Databases: SQL, MongoDB, MariaDB.
-- Tools: Azure cloud services, Streamlit, BeautifulSoup4, Selenium
-# 📫 Get in Touch:
-📧 Email: ductoan.uit@gmail.com
+### Hi there, I'm Toan Pham 
 
-💼 LinkedIn: toanpham23
+I'm an AI Backend Engineer with a strong passion for solving complex programming and system design challenges. I build high-performance, scalable, and reliable systems using modern backend technologies and applied AI.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+
+* Python, Golang, SQL
+
+### **Backend Frameworks**
+
+* FastAPI, Flask, Gin
+
+### **Databases**
+
+* PostgreSQL, MySQL, Redis
+
+### **API Development**
+
+* RESTful API, gRPC
+
+### **Tools & Libraries**
+
+* GORM, Pandas, RabbitMQ, Git
+
+### **Front End**
+
+* HTML, CSS, JavaScript
+
+### **Cloud & DevOps**
+
+* Azure, Docker
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email:** [ductoan.uit@gmail.com](mailto:ductoan.uit@gmail.com)
+💼 **LinkedIn:** toanpham23
+📝 **Blog:** [Pham Duc Toan on Substack](https://substack.com/@phamductoan1)
+---
+
