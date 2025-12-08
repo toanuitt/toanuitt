@@ -1,47 +1,18 @@
----
+# Hi, I'm Toan Pham 👋
 
-### Hi there, I'm Toan Pham 
+AI Backend Engineer building high-performance, scalable systems with modern technologies and applied AI.
 
-I'm an AI Backend Engineer with a strong passion for solving complex programming and system design challenges. I build high-performance, scalable, and reliable systems using modern backend technologies and applied AI.
+## 🛠️ Tech Stack
 
----
+**Languages:** Python, Golang, SQL  
+**Backend:** FastAPI, Flask, Gin  
+**Databases:** PostgreSQL, MySQL, Redis  
+**API:** RESTful, gRPC  
+**Tools:** GORM, Pandas, RabbitMQ, Docker, Git  
+**Cloud:** Azure
 
-## 🛠️ Technical Skills
+## 📫 Contact
 
-### **Programming Languages**
-
-* Python, Golang, SQL
-
-### **Backend Frameworks**
-
-* FastAPI, Flask, Gin
-
-### **Databases**
-
-* PostgreSQL, MySQL, Redis
-
-### **API Development**
-
-* RESTful API, gRPC
-
-### **Tools & Libraries**
-
-* GORM, Pandas, RabbitMQ, Git
-
-### **Front End**
-
-* HTML, CSS, JavaScript
-
-### **Cloud & DevOps**
-
-* Azure, Docker
-
----
-
-## 📫 Get in Touch
-
-📧 **Email:** [ductoan.uit@gmail.com](mailto:ductoan.uit@gmail.com)
-💼 **LinkedIn:** toanpham23
-📝 **Blog:** [Pham Duc Toan on Substack](https://substack.com/@phamductoan1)
----
-
+📧 ductoan.uit@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/toanpham23)  
+✍️ [Blog](https://substack.com/@phamductoan1)
